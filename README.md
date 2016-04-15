@@ -52,3 +52,7 @@ see this git https://github.com/BH-YAGHI/tg.git
 channel : https://telegram.me/Nod32team
 
 developer : https://telegram.me/Behroozyaghi
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/3iran/xy-spamer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
